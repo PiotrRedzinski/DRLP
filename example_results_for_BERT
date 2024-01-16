@@ -1,0 +1,20 @@
+atk - Abstracts Titles Keywords
+_86 - overall accuracy obtained
+_epoch_X - X - epoch number results obtained, best result before overfitting
+
+
+06.05.2023  19:43         6 973 686 atk_828_finetuned_BERT_epoch_4.model.csv
+06.05.2023  19:43         6 973 686 atk_82_finetuned_BERT_epoch_7.model.csv
+06.05.2023  19:43         6 973 686 atk_85v2_lr1_finetuned_BERT_epoch_4.model.csv
+06.05.2023  19:43         6 973 686 atk2_86v2lr1_finetuned_BERT_epoch_2.model.csv
+06.05.2023  19:43         6 973 686 atk_lr_1_finetuned_BERT_epoch_3.model.csv
+06.05.2023  19:43         5 678 494 a_828_finetuned_BERT_epoch_4.model.csv
+06.05.2023  19:43         5 678 494 a_82_finetuned_BERT_epoch_7.model.csv
+06.05.2023  19:43         5 678 494 a_85v2_lr1_finetuned_BERT_epoch_4.model.csv
+06.05.2023  19:43         5 678 494 a_86v2lr1_finetuned_BERT_epoch_2.model.csv
+06.05.2023  19:43         5 678 494 a_lr_1_finetuned_BERT_epoch_3.model.csv
+06.05.2023  19:43         6 973 686 best_ATK_86_finetuned_BERT_epoch_5.model.csv
+06.05.2023  19:43         5 678 494 best_A_86_finetuned_BERT_epoch_5.model.csv
+07.05.2023  19:51         4 853 261 example_results.zip
+06.05.2023  19:43         6 973 686 good_atk_85_finetuned_BERT_epoch_3.model.csv
+06.05.2023  19:43         5 678 494 good_a_85_finetuned_BERT_epoch_3.model.csv
